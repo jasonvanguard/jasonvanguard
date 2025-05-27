@@ -1,6 +1,7 @@
-I'm a design developer from London ON doing client work at [Vanguard Digital Media Group](https://vanguard.to), selling t-shirts at [TeePlug](https://teeplug.ca), building the ultimate suite of apps:
-[teambrite](https://teambrite.com) - reward and recognition platform
-promobrite - ecommerce framework for [New Era Grafix](https://newerasite.com)
-pulsebrite - technology, research and event management platform for marathons
-squadmark - sports team merch & licensing enforcement platform
-
+- **Client Work** at [Vanguard Digital Media Group](https://vanguard.to)  
+- **E-commerce**: Selling T-shirts at [TeePlug](https://teeplug.ca)  
+- **Building the ultimate suite of apps**:
+  - 🔹 [Teambrite](https://teambrite.com) — Reward & Recognition Platform  
+  - 🔹 **PromoBrite** — Proprietary E-commerce Framework for [New Era Grafix](https://newerasite.com)  
+  - 🔹 Pulsebrite — Tech, Research & Event Management for Marathons  
+  - 🔹 Squadmark — Sports Team Merch & Licensing Enforcement  
