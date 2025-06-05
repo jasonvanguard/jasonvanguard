@@ -3,5 +3,5 @@
 - **Building the ultimate suite of apps**:
   - 🔹 [Teambrite](https://teambrite.com) — Reward & Recognition Platform  
   - 🔹 **PromoBrite** — Proprietary E-commerce Framework for [New Era Grafix](https://newerasite.com)  
-  - 🔹 Pulsebrite — Tech, Research & Event Management for Marathons  
+  - 🔹 Pulsebrite — Tech, Research & Event Management for road races & golf tournaments.  
   - 🔹 Squadmark — Sports Team Merch & Licensing Enforcement  
