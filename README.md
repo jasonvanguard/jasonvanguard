@@ -1,7 +1,7 @@
 - **Client Work** at [Vanguard Digital Media Group](https://vanguard.to)  
-- **E-commerce**: Selling T-shirts at [TeePlug](https://teeplug.ca)  
+- **Selling T-shirts** at [TeePlug](https://teeplug.ca)  
 - **Building the ultimate suite of apps**:
-  - 🔹 [Teambrite](https://teambrite.com) — Reward & Recognition Platform  
+  - 🔹 **[Teambrite](https://teambrite.com)** — Reward & Recognition Platform  
   - 🔹 **Promobrite** — Proprietary E-commerce Framework for [New Era Grafix](https://newerasite.com)  
-  - 🔹 Pulsebrite — Tech, Research & Event Management for road races & golf tournaments.  
-  - 🔹 Squadmark — Sports Team Merch & Licensing Enforcement  
+  - 🔹 **Pulsebrite** — Tech, Research & Event Management for road races & golf tournaments.  
+  - 🔹 **Squadmark** — Sports Team Merch & Licensing Enforcement  
