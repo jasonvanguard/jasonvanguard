@@ -1,3 +1,1 @@
-- **Client Work** at [Vanguard Digital Media Group](https://vanguard.to)  
-- **Selling T-shirts** at [TeePlug](https://teeplug.ca)  
-- **Building employee merch portals for some of Canada's largest companies**
+- **Building custom platforms for some of Canada's largest companies**
